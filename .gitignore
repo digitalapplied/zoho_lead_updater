@@ -1,0 +1,14 @@
+# virtual-envs
+.venv/
+env/
+# Python cache
+__pycache__/
+*.py[cod]
+# secrets / dotenv
+.env
+*.env
+# logs
+*.log
+# OS clutter
+.DS_Store
+Thumbs.db
